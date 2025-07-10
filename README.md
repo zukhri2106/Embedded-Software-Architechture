@@ -6,10 +6,10 @@ These are the skillset that you will master by the end of the project
 * Embedded Systems Expertise
   * Bare-metal or low-RTOS environments
   * MCU platforms (e.g., Arm Cortex-M family)
-  * resource-constrained systems (performance, memory, and real-time constraints)
+  * Resource-constrained systems (performance, memory, and real-time constraints)
 * Low-Level Programming
   * C programming
-  * linker scripts and build toolchains
+  * Linker scripts and build toolchains
   * Low-level debugging (e.g., JTAG/SWD, memory analysis)
 * System Architecture
   * Designing and implementing architectures for modular, upgradeable embedded software
@@ -32,6 +32,6 @@ These are the skillset that you will master by the end of the project
   * API/SDK design for secure services and peripheral abstraction
 
 
-Bonus skills
-* security models such as TrustZone, CHERI or virtualization techniques on MCUs
-* creating SDKs or APIs that abstract secure services or peripheral access
+## Bonus skills
+* Security models such as TrustZone, CHERI or virtualization techniques on MCUs
+* Creating SDKs or APIs that abstract secure services or peripheral access
